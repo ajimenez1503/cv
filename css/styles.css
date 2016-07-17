@@ -1,0 +1,115 @@
+/*
+Copyright ©. All rights reserved. Designed by Antonio Jimenez Martienz y Andres Ortiz Corrales
+*/
+* {
+	margin:0;
+	padding:0;
+}
+body  {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	background: url(../images/stockholm.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: "Lato";
+	font-weight: 300;
+	font-size: 17px;
+	color: #555;
+}
+
+.container{
+	padding-top: 10%;
+    /*max-width: 1500px;*/
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 10%;
+}
+
+.w {
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  -moz-box-shadow: 5px 5px rgba(0,0,0,0.2);
+  -webkit-box-shadow: 5px 5px rgba(0,0,0,0.2);
+  box-shadow: 5px 5px rgba(0,0,0,0.2);
+}
+
+.col-md-4 {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.nav-tabs {
+  border-bottom: 1px solid #dddddd;
+}
+
+.col-md-8 {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.col-md-10 {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.tab-content {
+  background-color: #ffffff;
+  padding-left: 15px;
+  padding-top: 20px;
+  padding-right: 15px;
+}
+
+.nav-tabs > li > a {
+  margin-right: 2px;
+  line-height: 1.428571429;
+  border-bottom: 1px solid #dddddd;
+  border-radius: 0 0 0 0;
+  width: 100%;
+  background-color: #f2f2f2;
+}
+
+a {
+  color: #1abc9c;
+  word-wrap: break-word;
+  -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
+  -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
+  -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
+  -o-transition: color 0.1s ease-in, background 0.1s ease-in;
+  transition: color 0.1s ease-in, background 0.1s ease-in;
+}
+
+nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+  color: #555555;
+  cursor: default;
+  background-color: #ffffff;
+  border-left: 5px solid #1abc9c;
+  border-bottom-color: transparent;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  width: 100%;
+}
+
+#Profile{
+
+	margin-left: auto;
+    margin-right: auto;
+	display:block;
+}
+#Skill, #Project, #Contact {
+	margin-left: auto;
+    margin-right: auto;
+	display:none;
+}
+
+.img-responsive{
+	  border: 2px solid #dddddd;
+}
+.sm {
+  font-size: 14px;
+}
+
+grey {
+  color: #bdc3c7;
+  font-weight: 700;
+}
