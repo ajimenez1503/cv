@@ -106,6 +106,9 @@ nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active
 .sm {
   font-size: 14px;
 }
+.sm17 {
+  font-size: 17px;
+}
 
 grey {
   color: #bdc3c7;

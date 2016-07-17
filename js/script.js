@@ -4,7 +4,6 @@
 * Dispaly view:
 */
 function displayView(view){
-        console.log(view)
         //check that view only can be: Profile/Skill/Contact
         if(view==='Profile' || view==='Skill' || view=='Contact' || view==='Project'){
             //everything is display none and remove active class
