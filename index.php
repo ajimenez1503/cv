@@ -40,12 +40,16 @@
 							<hr>
 							<h3><i class="icon-briefcase"></i> Job Experience</h4>
 							<p class="sm">
-					  			<grey>Ercisson- Inthernship</grey> | June 2016- october 2016 |Sweden, Linköping.<br><br>
+					  			<grey>Ercisson- Inthernship</grey> | June 2016- october 2016 |Sweden, Linköping.<br>
 						  	</p>
 							 <h3><i class="icon-file-text-alt"></i> Education</h4>
 						  	<p class="sm">
 						  		<grey>Computer Science Engineering - Software Engineering-  Bachelor</grey> |  2012 - 2016 | Spain, Granada.<br><br>
-								<grey>Scholarship Computer Science Engineering</grey> |  2012 - 2016 | Sweden, Linköping.<br><br><br>
+								<grey>Scholarship Computer Science Engineering</grey> |  2012 - 2016 | Sweden, Linköping.<br>
+						  	</p>
+							<h3><i class="icon-briefcase"></i> Course</h4>
+							<p class="sm">
+					  			<grey>Course of programming APP mobile</grey> | (40h) |Spain, Madrird.<br>
 						  	</p>
 						</div><!-- Tab Profile -->
 						<!-- ===== Skill Tab =====-->
@@ -63,9 +67,6 @@
 						</div><!-- tab Skill -->
 						<!-- ===== Project Tab ===== -->
 						<div class="tab-pane" id="Project">
-							<h2>Antonio Jimenez</h2>
-							<h4>Software Engineer</h4>
-							<hr>
 							<p>Project
 							I have experience with C++, Python and for some time I've been using Go language and I just love it.
 							Language agnostic and passionate about all kind of tech stuff. C++ fanatic and looking forward C++17!
