@@ -67,10 +67,14 @@
 						</div><!-- tab Skill -->
 						<!-- ===== Project Tab ===== -->
 						<div class="tab-pane" id="Project">
-							<p>Project
-							I have experience with C++, Python and for some time I've been using Go language and I just love it.
-							Language agnostic and passionate about all kind of tech stuff. C++ fanatic and looking forward C++17!
-							</p>
+							<ul class="list-group">
+								<li class="list-group-item"><strong>Twidder, Minimal social-networking </strong>  It manage the profile,the media and the chat. It is bui lt in Flask Python, Websocket, Bootstrap, AJAX, WSGI Server , History API <grey>Linköping | 2015</grey></li>
+								<li class="list-group-item"><strong>FunnyBall- 3D Game </strong>in Unity 3D <grey>Linköping | 2015</grey></li>
+								<li class="list-group-item"><strong>Solar system 3D </strong>It shows the move of sun, planets, satellites and ships. It is built in java3D, WebGl, X3D <grey>Granada | 2015</grey></li>
+								<li class="list-group-item"><strong>Heisenburg, web application </strong>to search and book hotel. It is built in PHP, CSS, JavaScript, HTML and MySQL. <grey>Granada | 2015</grey></li>
+								<li class="list-group-item"><strong>Dbdofast </strong>ERP for a small shop. <grey>Granada | 2014</grey></li>
+								<li class="list-group-item"> <strong>Fermath</strong>  calculator with a data base and interface, it is built in C <grey> Granada |2013</grey></li>
+							</ul>
 						</div><!-- tab Project -->
 						<!-- ===== Contact Tab ===== -->
 						<div class="tab-pane" id="Contact">
