@@ -19,7 +19,7 @@
 
 <body>
 	<div class="container">
-		<div class="col-lg-7 col-lg-offset-2">
+		<div class="col-lg-8 col-lg-offset-2">
 			<div class="row w">
 				<div class="col-md-4">
 					<img class="img-responsive" src="images/cvprofile.jpg" alt="cv_profile">
@@ -34,10 +34,10 @@
 
 					<div class="tab-content">
 						<!-- ===== Profile Tab ===== -->
-						<h2>Antonio Jimenez</h2>
-						<h4>Software Engineer</h4>
-						<hr>
 						<div class="tab-pane" id="Profile">
+							<h2>Antonio Jimenez</h2>
+							<h4>Software Engineer</h4>
+							<hr>
 							<h3><i class="icon-briefcase"></i> Job Experience</h4>
 							<p class="sm">
 					  			<grey>Ercisson- Inthernship</grey> | June 2016- october 2016 |Sweden, Linköping.<br><br>
@@ -48,15 +48,24 @@
 								<grey>Scholarship Computer Science Engineering</grey> |  2012 - 2016 | Sweden, Linköping.<br><br><br>
 						  	</p>
 						</div><!-- Tab Profile -->
-						<!-- ===== Skill Tab ===== -->
+						<!-- ===== Skill Tab =====-->
 						<div class="tab-pane" id="Skill">
-							<p>Skill
-							I have experience with C++, Python and for some time I've been using Go language and I just love it.
-							Language agnostic and passionate about all kind of tech stuff. C++ fanatic and looking forward C++17!
-							</p>
+							<ul class="list-group">
+							  <li class="list-group-item"> <strong>Programming language: </strong> C/C++, Python, Java, C#, Ruby</li>
+							  <li class="list-group-item"><strong>Web programming: </strong>HML5, PHP, JavaScript, CSS, MySQL, Ajax,Json, XML, Websocket, flask (python), sqlite3, IFML</li>
+							  <li class="list-group-item"><strong>Data base: </strong>MySQL, PostgreSQL, mongodb, nosql, PhpMyAdmin</li>
+							  <li class="list-group-item"><strong>Graphic: </strong>OpenGL, X3D, Java3D, WebGL, gtk, unity3d</li>
+							  <li class="list-group-item"><strong>Network: </strong>Wireshark, Putty, Juniper, Cisco, Netmiko, Telnetlib</li>
+							  <li class="list-group-item"><strong>Parallel programming: </strong>  MPI, OpenMp</li>
+							 <li class="list-group-item"><strong>Knowledge: </strong>Github, Bash, Benchmark, Scrum, Sprint</li>
+							 <li class="list-group-item"><strong>Operating system: </strong>Linux, Microsoft, Android, IOS</li>
+							</ul>
 						</div><!-- tab Skill -->
 						<!-- ===== Project Tab ===== -->
 						<div class="tab-pane" id="Project">
+							<h2>Antonio Jimenez</h2>
+							<h4>Software Engineer</h4>
+							<hr>
 							<p>Project
 							I have experience with C++, Python and for some time I've been using Go language and I just love it.
 							Language agnostic and passionate about all kind of tech stuff. C++ fanatic and looking forward C++17!
@@ -64,6 +73,9 @@
 						</div><!-- tab Project -->
 						<!-- ===== Contact Tab ===== -->
 						<div class="tab-pane" id="Contact">
+							<h2>Antonio Jimenez</h2>
+							<h4>Software Engineer</h4>
+							<hr>
 							<p>Contact
 							I have experience with C++, Python and for some time I've been using Go language and I just love it.
 							Language agnostic and passionate about all kind of tech stuff. C++ fanatic and looking forward C++17!

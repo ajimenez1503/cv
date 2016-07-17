@@ -6,7 +6,7 @@
 function displayView(view){
         console.log(view)
         //check that view only can be: Profile/Skill/Contact
-        if(view==='Profile' || view==='Skill' || view=='Contact'){
+        if(view==='Profile' || view==='Skill' || view=='Contact' || view==='Project'){
             //everything is display none and remove active class
             document.getElementById("Profile").style.display="none";
             document.getElementById("Skill").style.display="none";
