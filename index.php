@@ -19,7 +19,7 @@
 
 <body>
 	<div class="container">
-		<div class="col-lg-6 col-lg-offset-3">
+		<div class="col-lg-7 col-lg-offset-2">
 			<div class="row w">
 				<div class="col-md-4">
 					<img class="img-responsive" src="images/cvprofile.jpg" alt="cv_profile">
@@ -34,18 +34,18 @@
 
 					<div class="tab-content">
 						<!-- ===== Profile Tab ===== -->
-						<h3>Antonio Jimenez</h3>
-						<h5>Software Engineer</h5>
+						<h2>Antonio Jimenez</h2>
+						<h4>Software Engineer</h4>
 						<hr>
 						<div class="tab-pane" id="Profile">
-							<h4><i class="icon-briefcase"></i> Job Experience</h4>
+							<h3><i class="icon-briefcase"></i> Job Experience</h4>
 							<p class="sm">
-					  			<grey>Ercisson- Inthernship</grey> | June 2016- october 2016 |Sweden, Linköping.<br>
+					  			<grey>Ercisson- Inthernship</grey> | June 2016- october 2016 |Sweden, Linköping.<br><br>
 						  	</p>
-							 <h4><i class="icon-file-text-alt"></i> Education</h4>
+							 <h3><i class="icon-file-text-alt"></i> Education</h4>
 						  	<p class="sm">
-						  		<grey>Computer Science Engineering - Software Engineering-  Bachelor</grey> |  2012 - 2016 | Spain, Granada.<br>
-								<grey>Scholarship Computer Science Engineering</grey> |  2012 - 2016 | Sweden, Linköping.<br>
+						  		<grey>Computer Science Engineering - Software Engineering-  Bachelor</grey> |  2012 - 2016 | Spain, Granada.<br><br>
+								<grey>Scholarship Computer Science Engineering</grey> |  2012 - 2016 | Sweden, Linköping.<br><br><br>
 						  	</p>
 						</div><!-- Tab Profile -->
 						<!-- ===== Skill Tab ===== -->
