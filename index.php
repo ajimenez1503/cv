@@ -22,7 +22,7 @@
 	<div class="container">
 		<div class="col-lg-8 col-lg-offset-2">
 			<div class="row w">
-				<div class="col-md-4">
+				<div class="col-md-3">
 					<img class="img-responsive" src="images/cvprofile.jpg" alt="cv_profile">
 					<ul class="nav nav-tabs nav-stacked" id="myTab">
 					  <li id="linkProfile" onclick="displayView('Profile')" class="active" ><a href="#Profile">Profile</a></li>
@@ -31,7 +31,7 @@
 					  <li id="linkContact" onclick="displayView('Contact')" ><a href="#Contact">Contact</a></li>
 					</ul>
 				</div>
-				<div class="col-md-8">
+				<div class="col-md-9">
 
 					<div class="tab-content">
 						<!-- ===== Profile Tab ===== -->
