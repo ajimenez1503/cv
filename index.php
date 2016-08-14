@@ -53,6 +53,7 @@
 					  			<grey>Course of programming APP mobile</grey> | (40h) |Spain, Madrird.<br>
 						  	</p>
 						</div><!-- Tab Profile -->
+
 						<!-- ===== Skill Tab =====-->
 						<div class="tab-pane" id="Skill">
 							<ul class="list-group">
@@ -66,6 +67,7 @@
 							 <li class="list-group-item"><strong>Operating system: </strong>Linux, Microsoft, Android, IOS</li>
 							</ul>
 						</div><!-- tab Skill -->
+
 						<!-- ===== Project Tab ===== -->
 						<div class="tab-pane" id="Project">
 							<ul class="list-group">
@@ -77,23 +79,20 @@
 								<li class="list-group-item"> <strong>Fermath</strong>  calculator with a data base and interface, it is built in C <grey> Granada |2013</grey></li>
 							</ul>
 						</div><!-- tab Project -->
+
 						<!-- ===== Contact Tab ===== -->
 						<div class="tab-pane" id="Contact">
 							<h2>Antonio Jimenez</h2>
 							<h4>Software Engineer</h4>
-							<h4>Contact Information</h4>
-							<hr>
+							<h5>Contact Information</h5>
 							<div class="row">
 								<div class="col-xs-12">
 									<p class="sm17">
 									  <i class="icon-envelope"></i> - <a href="mailto:94antoniojimenez@gmail.com">94antoniojimenez@gmail.com</a>
 									</p>
 								</div><!-- col-xs-8 -->
-
 							</div><!-- row -->
-
 							<h4>Social Links</h4>
-							<hr>
 							<div class="row">
 								<div class="col-xs-8">
 									<p class="sm17">
@@ -103,15 +102,13 @@
 									</p>
 								</div><!-- col-xs-6 -->
 							</div><!-- row -->
+							<h4>Download cv.pdf</h4>
 							<div class="row">
-								<h4>Download cv.pdf</h4>
-								<hr>
-								<div class="row">
-									<div class="col-xs-8">
-										<p class="sm17">
-										  <i class="icon-long-arrow-down"></i> - <a href="">Downlaod cv</a> <br>
-										</p>
-									</div><!-- col-xs-6 -->
+								<div class="col-xs-8">
+									<p class="sm17">
+									  <i class="icon-long-arrow-down"></i> - <a target="_blank" href="http://127.0.0.1/cv/download/cv-antonio-jimenez.pdf">Downlaod cv</a> <br>
+									</p>
+								</div><!-- col-xs-6 -->
 							</div><!-- row -->
 						</div><!-- tab Contact -->
 					</div><!-- Tab Content -->

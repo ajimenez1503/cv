@@ -114,3 +114,9 @@ grey {
   color: #bdc3c7;
   font-weight: 700;
 }
+
+h2 {
+ 	font-size: 30px;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
