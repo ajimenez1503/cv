@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>CV Antonio Jimenez Martinez</title>
+	<title>CV Antonio Jimenez</title>
 	<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
     <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     <!-- Latest compiled and minified CSS -->
@@ -13,7 +13,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 	<?php
 		echo "<link href=\"css/styles.css\" rel=\"stylesheet\" type=\"text/css\"/>";
-		echo "<script type=\"text/javascript\" src=\"./js/script.js\"></script>"
+		echo "<script type=\"text/javascript\" src=\"./js/script.js\"></script>";
 	?>
 	<link rel="icon" href="images/favicon-cv.png" type="image/x-icon">
 
@@ -106,7 +106,7 @@
 							<div class="row">
 								<div class="col-xs-8">
 									<p class="sm17">
-									  <i class="icon-long-arrow-down"></i> - <a target="_blank" href="http://127.0.0.1/cv/download/cv-antonio-jimenez.pdf">Downlaod cv</a> <br>
+									  <i class="icon-long-arrow-down"></i> - <a download href="download/cv-Antonio-Jimenez.pdf">Downlaod cv</a> <br>
 									</p>
 								</div><!-- col-xs-6 -->
 							</div><!-- row -->
